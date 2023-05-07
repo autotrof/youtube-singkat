@@ -1,6 +1,6 @@
 ## CONTOH SKRIP AJAX
 
-berikut adalah contoh skrip ajax. bagaimana cara menggunakan ajax dengan jquery secara mudah dan sederhana
+berikut adalah contoh manipulasi DOM Element HTML sederhana menggunakan javascript tanpa jquery
 
 ## cara menjalankan
 
@@ -8,4 +8,4 @@ berikut adalah contoh skrip ajax. bagaimana cara menggunakan ajax dengan jquery 
 - jalankan php -S localhost:8000
 - buka browser, ketik di url http://localhost:8000
 
-cek videonya di sini : [@agung-kurniawan](https://youtu.be/j6SSY3GoU3c)
+cek videonya di sini : [@agung-kurniawan](https://www.youtube.com/watch?v=fJsJANft0IY)
