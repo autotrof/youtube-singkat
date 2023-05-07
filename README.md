@@ -1,8 +1,8 @@
-## CONTOH SKRIP AJAX
+## Contoh Manipulasi DOM Element dengan Javascript
 
 berikut adalah contoh manipulasi DOM Element HTML sederhana menggunakan javascript tanpa jquery
 
-## cara menjalankan
+### cara menjalankan
 
 - clone branch ini
 - jalankan php -S localhost:8000
