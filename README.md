@@ -1,6 +1,6 @@
 ## CONTOH SKRIP AJAX
 
-berikut adalah contoh manipulasi DOM Element HTML sederhana menggunakan javascript tanpa jquery
+berikut adalah contoh manipulasi DOM Element HTML sederhana menggunakan jquery
 
 ## cara menjalankan
 
@@ -8,4 +8,4 @@ berikut adalah contoh manipulasi DOM Element HTML sederhana menggunakan javascri
 - jalankan php -S localhost:8000
 - buka browser, ketik di url http://localhost:8000
 
-cek videonya di sini : [@agung-kurniawan](https://www.youtube.com/watch?v=fJsJANft0IY)
+cek videonya di sini : [@agung-kurniawan](https://youtu.be/EyO5uQeMLrE)
