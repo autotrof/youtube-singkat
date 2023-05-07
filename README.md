@@ -1,4 +1,4 @@
-## CONTOH SKRIP AJAX
+## CONTOH JQUERY
 
 berikut adalah contoh manipulasi DOM Element HTML sederhana menggunakan jquery
 
